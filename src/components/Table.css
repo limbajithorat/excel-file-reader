@@ -1,0 +1,32 @@
+table {
+  margin-top: 20px;
+  border-collapse: collapse;
+  width: 98vw;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+
+  text-align: left;
+
+  height: 30px;
+  padding: 5px;
+}
+
+th {
+  background-color: #ddd;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+#dropdown:hover {
+  cursor: pointer;
+}
+#button1:hover {
+  cursor: pointer;
+}
